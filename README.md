@@ -9,14 +9,26 @@ Aspiring Data Analyst with experience in Excel, SQL, Python, Power BI and Tablea
 - Python
 - Power BI
 - Tableau
-- Data Cleaning
-- Data Visualisation
+- Git & GitHub
+- Firebase
+- React
+- AI Prompt Engineering
 
 ## Current Projects
 
 📊 CareerPilot AI
+AI-powered job application tracker with ATS scoring, interview preparation and skill gap analysis.
 
 📈 Movie Success Analysis
+Data analytics capstone project exploring factors influencing movie success using Python, SQL and Tableau.
+
+## Featured Projects
+
+### SQL Portfolio
+Collection of SQL queries covering joins, CTEs, window functions and data cleaning.
+
+### Power BI Dashboards
+Interactive dashboards built using real-world datasets. 
 
 ## Certifications
 
