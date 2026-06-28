@@ -1,5 +1,32 @@
-# Welcome to GitHub Desktop!
+# Hi, I'm Maria Cristina 👋
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Data Analyst passionate about turning data into actionable insights.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Skills
+
+- Excel
+- SQL
+- Python
+- Power BI
+- Tableau
+- Data Cleaning
+- Data Visualisation
+
+## Current Projects
+
+📊 CareerPilot AI
+
+📈 Movie Success Analysis
+
+## Certifications
+
+Amazon Data Analytics Graduate
+
+CIPD Level 3
+
+AWS Cloud Practitioner (In Progress)
+
+## Let's connect
+
+LinkedIn
+Email
