@@ -1,6 +1,6 @@
 # Hi, I'm Maria Cristina 👋
 
-Data Analyst passionate about turning data into actionable insights.
+Aspiring Data Analyst with experience in Excel, SQL, Python, Power BI and Tableau. Passionate about transforming complex data into meaningful insights and building AI-powered solutions that improve decision-making.
 
 ## Skills
 
